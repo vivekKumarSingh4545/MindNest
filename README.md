@@ -33,20 +33,18 @@ Follow these steps to run MindNest locally:
 
  1. Clone the repository
 
-git clone "https://github.com/vivekKumarSingh4545/MindNest"
-cd MindNest
+``bash git clone "https://github.com/vivekKumarSingh4545/MindNest"
+cd MindNest ```
 
 2.  Run the Backend
 
-cd backend
-npm install
-node start
+``bash cd backend npm install node start ```
 
 3.Setup the Frontend 
 
-cd frontend
+``bash cd frontend
 npm install
-npm run dev
+npm run dev ```
 
 
 
