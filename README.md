@@ -33,7 +33,7 @@ Follow these steps to run MindNest locally:
 
  1. Clone the repository
 
-git clone https://github.com/vivekKumarSingh4545/MindNest
+git clone "https://github.com/vivekKumarSingh4545/MindNest"
 cd MindNest
 
 2.  Run the Backend
